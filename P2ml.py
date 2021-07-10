@@ -140,20 +140,5 @@ artist_name_recommend_birch.head() # for artist wise recommendations
 mixed_birch.head() # for mixed recommendations
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
 
 
